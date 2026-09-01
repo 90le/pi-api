@@ -7,3 +7,5 @@ pluginManagement {
 }
 include ':app'
 include ':termux-shared'
+include ':terminal-view'
+include ':terminal-emulator'
